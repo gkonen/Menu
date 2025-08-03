@@ -1,5 +1,5 @@
 from collections.abc import Callable
-from utils import Return, CallbackOption, CallbackSubMenu
+from util.utils import Return, CallbackOption, CallbackSubMenu
 
 
 class MenuOption:

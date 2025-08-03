@@ -1,7 +1,7 @@
 import random
 
-from MenuBuilder import MenuBuilder
-from utils import CallbackOption
+from model.MenuBuilder import MenuBuilder
+from util.utils import CallbackOption
 
 
 @CallbackOption

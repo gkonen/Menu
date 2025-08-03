@@ -1,5 +1,5 @@
-from Menu import Menu, MenuOption, OptionSubMenu
-from utils import Return
+from model.Menu import Menu, MenuOption, OptionSubMenu
+from util.utils import Return
 
 
 class MenuBuilder:
